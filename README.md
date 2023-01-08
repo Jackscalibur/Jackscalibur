@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jackscalibur
+- 👋 Hi, I’m @Jackscalibur, and I work for TMNA as a Penetration Testing Engineer!
 - 👀 I’m interested in Cyber Security, DevOps, and all things Cloud-related.
 - 🌱 I’m currently learning AWS, Python, Docker, Kubernetes, and DevOps-related software and tools.
 - 💞️ I’m looking to collaborate on CI-CD pipelines, open-source projects, etc.
