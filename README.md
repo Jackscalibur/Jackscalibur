@@ -1,9 +1,30 @@
-- Hi, I’m Jackson, and I work for Toyota as a Junior Security Engineer!
-- Currently learning Python, Linux, AWS, with future plans being Docker, K8s, Terraform, and more!
-- Interested in Cyber Security, Cloud, and all things DevOps-related.
-- How to reach me: my email and LinkedIn are in my profile links.
+# Hi there, I'm Jackson 👋
 
-<!---
-Jackscalibur/Jackscalibur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a security engineer with a passion for learning, always. I enjoy working with various technologies, including Python, Go, AWS, and more.
+
+## 🔭 Currently working on...
+
+- Creating a portfolio website about me
+- Improving my programming skills through automation
+- Understanding things from a security perspective
+
+## 🌱 Currently learning...
+
+- Python (in greater detail)
+- Linux (in greater detail)
+- Networking (in greater detail)
+- Docker
+- AWS
+
+## 📫 How to reach me...
+
+- [Email](mailto:jackson.taylor.cowdrey@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jackson-cowdrey/)
+
+## 💬 Ask me about...
+
+- Career goals
+- Tech topics
+- Pop culture
+
+Thanks for checking out my profile!
