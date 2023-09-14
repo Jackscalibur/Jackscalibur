@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub repository! I'm a security engineer at Toyota with a focus on API and Cloud security.
+I'm a security engineer at Toyota with a focus on API and Cloud security.
+
+Welcome to my GitHub repository!
 
 <!--
 **Jackscalibur/Jackscalibur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
