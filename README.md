@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently learning more about Linux and Bash scripting.
-- I'm wanting to learn more about Docker, AWS, and CI/CD pipelines.
+- I'm currently learning more about Linux, Bash scripting, AWS, Docker, and CI/CD pipelines.
+- I'm wanting to learn more about Terraform, CloudFormation, and other IaC languages and tooling.
 - Reach me via my [email](jackson.taylor.cowdrey@gmail.com), and/or check out my [LinkedIn](https://www.linkedin.com/in/jackson-cowdrey/) profile!
 
 ___
