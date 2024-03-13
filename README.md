@@ -2,7 +2,7 @@ ___
 
 ### Hi there 👋
 
-I'm a security engineer at Toyota with a focus on API and Cloud security.
+I'm a security engineer at Toyota with a focus on all things AppSec.
 
 <!--
 **Jackscalibur/Jackscalibur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently learning more about Bash, AWS, Docker, and CI/CD pipelines.
-- I'm wanting to learn more about Terraform, CloudFormation, and other IaC languages and tooling.
+- I'm currently learning more about Networking, C, and Assembly language. 
+- I'm wanting to learn more about Reverse Engineering, Web Security, and DevSecOps.
 - Reach me via my [email](jackson.taylor.cowdrey@gmail.com), and/or check out my [LinkedIn](https://www.linkedin.com/in/jackson-cowdrey/) profile!
 
 ___
