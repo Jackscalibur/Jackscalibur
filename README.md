@@ -1,26 +1,9 @@
 ___
 
-### Hi there 👋
+### Hello! ✋
 
-I'm a security engineer at Toyota with a focus on all things AppSec.
-
-<!--
-**Jackscalibur/Jackscalibur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- I'm currently learning more about Networking, C, and Assembly language. 
-- I'm wanting to learn more about Reverse Engineering, Web Security, and DevSecOps.
+- I'm currently learning more about Networking, Rust, and Systems programming. 
+- I'm wanting to learn more about Reverse Engineering, AWS, and Video-Game hacking.
 - Reach me via my [email](jackson.taylor.cowdrey@gmail.com), and/or check out my [LinkedIn](https://www.linkedin.com/in/jackson-cowdrey/) profile!
 
 ___
