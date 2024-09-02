@@ -1,16 +1,12 @@
----
-## Hello! ✋
+### Hi There! ✋
 
-### I'm currently learning about...
-- Rust
-- Networking
-- Cryptography
+I'd love to share what I'm currently learning, but it changes so frequently that it's hard to keep up.
 
-### I want to learn about...
-- AWS
-- Terraform
-- CI/CD Pipelines
+I work as a Product Security Engineer at Toyota, where I focus on Mobile, API, and Cloud security.
 
-### How to reach me...
-- Reach me via my [email](jackson.taylor.cowdrey@gmail.com), and/or check out my [LinkedIn](https://www.linkedin.com/in/jackson-cowdrey/) profile!
----
+I'm passionate about Application Security and see myself in that domain in the future.
+
+### Skills
+- **Programming Languages**: Python, Java, some Rust and C
+- **Technologies**: TLS, REST, Cryptography, Linux, Networking, Mobile Security (IOS and Android)
+- **Tools**: Postman, Burp Suite, Wireshark, Ghidra, Docker
