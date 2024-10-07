@@ -4,7 +4,7 @@ I'd love to share what I'm currently learning, but it changes so frequently that
 
 I work as a Product Security Engineer at Toyota, where I focus on Mobile, API, and Cloud security.
 
-I'm passionate about Application Security and see myself in that domain in the future.
+I'm passionate about AppSec, specifically DevSecOps.
 
 ### Skills
 - **Programming Languages**: Python, Java, some Rust and C
