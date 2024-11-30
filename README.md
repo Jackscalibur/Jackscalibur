@@ -1,12 +1,11 @@
 ### Hi There! ✋
 
-I'd love to share what I'm currently learning, but it changes so frequently that it's hard to keep up.
+I’m a Product Security Engineer at Toyota, specializing in security testing across multiple domains, including:
 
-I work as a Product Security Engineer at Toyota, where I focus on Mobile, API, and Cloud security.
+- Mobile Application Security
+- API Security
+- Cloud Security
 
-I'm passionate about AppSec, specifically DevSecOps.
+I have a passion for continuous learning and constantly seek to expand my knowledge.
 
-### Skills
-- **Programming Languages**: Python, Java, some Rust and C
-- **Technologies**: TLS, REST, Cryptography, Linux, Networking, Mobile Security (IOS and Android)
-- **Tools**: Postman, Burp Suite, Wireshark, Ghidra, Docker
+Right mow, I'm spending a lot of time learning **Rust**. It's pretty cool.
