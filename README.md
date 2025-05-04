@@ -9,3 +9,7 @@ My primary job responsibilities include performing API security testing on the m
 Hollistically, I'm interested in the intersection between cyber security and software engineering—that is, I enjoy both writing and securing software.
 
 Right now, I'm spending a lot of time learning **Rust**. It's pretty cool.
+
+## Skills
+
+- Programming Languages: Rust, Java, C, Python
