@@ -13,3 +13,4 @@ Right now, I'm spending a lot of time learning **Rust**. It's pretty cool.
 ## Skills
 
 - Programming Languages: Rust, Java, C, Python
+- Tools: Burp Suite, Wireshark, Ghidra, Android Studio
