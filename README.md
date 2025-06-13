@@ -12,8 +12,9 @@ Right now, I'm spending a lot of time learning **Rust**. It's pretty cool.
 
 ## Skills
 
-- Programming Languages: Rust, Java, C, Python
-- Tools: Burp Suite, Wireshark, Ghidra, Android Studio
+- Programming Languages: Rust, Golang, Python, Java
+- Tools: Wireshark, Postman, Burp Suite, Ghidra
+- Technologies: AWS: API Gateway, Lambda, S3, ECS, EKS
 
 ## GitHub Stats
 [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackscalibur)](https://github.com/Jackscalibur/github-readme-stats)
