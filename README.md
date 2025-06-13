@@ -14,3 +14,6 @@ Right now, I'm spending a lot of time learning **Rust**. It's pretty cool.
 
 - Programming Languages: Rust, Java, C, Python
 - Tools: Burp Suite, Wireshark, Ghidra, Android Studio
+
+## GitHub Stats
+[![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackscalibur)](https://github.com/Jackscalibur/github-readme-stats)
