@@ -1,22 +1,20 @@
 # About Me
 
-My name is Jackson, and I work for Toyota as a **Product Security Engineer**. What that means is, I work to secure the vehicle ecosystem—systems that interact with the vehicle and Toyota's mobile application.
+My name is Jackson, and I work for Toyota as a **Product Security Engineer**. I work to secure the vehicle and mobile application-facing services and APIs.
 
-I am comfortable with performing security testing on Android and iOS applications, writing Python automation tools using libraries such as Androguard (and with other languages), using Ghidra to reverse engineer binaries, analyze pcap files using Wireshark, proxy HTTP traffic using Burp Suite, and much more.
-
-My primary job responsibilities include performing API security testing on the mobile app, certain cloud infrastructure (if it pertains to vehicle-related services), and also [ECU](https://en.wikipedia.org/wiki/Electronic_control_unit)-specific testing, usually at the OS level ([AGL](https://www.automotivelinux.org/)).
+I perform security audits for both Android and iOS apps, use Burp Suite for REST, gRPC and GraphQL API security testing, use Wireshark for Layer 2-7 analysis, write my own security tools using Python and Rust, etc.
 
 ---
 
 Hollistically, I'm interested in the intersection between cyber security and software engineering—that is, I enjoy both writing and securing software.
 
-Rust and Python are probably my favorite languages to use, along with Golang, depending on the use case. For now, I consider myself a generalist, and enjoy learning about the Cloud, Linux and Network security domains.
+I enjoy using Python and Rust the most, but I am also comfortable with languages such as Golang and Java. I consider myself a generalist for now, and enjoy learning more about Network (Layers 4 and 7 the most) and Linux security in my spare time.
 
 ## Skills
 
 - Programming Languages: Rust, Golang, Python, Java
 - Tools: Wireshark, Postman, Burp Suite, Ghidra
-- Technologies: AWS: API Gateway, Lambda, S3, ECS, EKS
+- Technologies: AWS: API Gateway, Lambda, S3, ECS, EKS, WAF, CloudFront
 
 ## GitHub Stats
 [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackscalibur)](https://github.com/Jackscalibur/github-readme-stats)
