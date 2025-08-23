@@ -1,8 +1,8 @@
 # About Me
 
-My name is Jackson, and I work for Toyota as a **Product Security Engineer**. I work to secure the vehicle and mobile application-facing services and APIs.
+My name is Jackson, and I work for Toyota as a **Product Security Engineer**. I work to secure both vehicle and mobile application-facing services and APIs.
 
-I perform security audits for both Android and iOS apps, use Burp Suite for REST, gRPC and GraphQL API security testing, use Wireshark for Layer 2-7 analysis, write my own security tools using Python and Rust, etc.
+I have experience performing security testing for both Android and iOS applications, API security, cloud security, etc.
 
 ---
 
