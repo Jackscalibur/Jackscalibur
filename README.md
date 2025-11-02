@@ -8,7 +8,7 @@ I have experience performing security testing for both Android and iOS applicati
 
 Hollistically, I'm interested in the intersection between cyber security and software engineering—that is, I enjoy both writing and securing software.
 
-I enjoy using Python and Rust the most, but I am also comfortable with languages such as Golang and Java. I consider myself a generalist for now, and enjoy learning more about Network (Layers 4 and 7 the most) and Linux security in my spare time.
+I enjoy using Python and Rust the most, but I am also comfortable with languages such as Golang and Java. I enjoy learning more about Network and Linux security in my spare time.
 
 ## Skills
 
