@@ -10,11 +10,5 @@ Hollistically, I'm interested in the intersection between cyber security and sof
 
 I enjoy using Python and Rust the most, but I am also comfortable with languages such as Golang and Java. I enjoy learning more about Network and Linux security in my spare time.
 
-## Skills
-
-- Programming Languages: Rust, Golang, Python, Java
-- Tools: Wireshark, Postman, Burp Suite, Ghidra
-- Technologies: AWS: API Gateway, Lambda, S3, ECS, EKS, WAF, CloudFront
-
 ## GitHub Stats
 [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackscalibur)](https://github.com/Jackscalibur/github-readme-stats)
