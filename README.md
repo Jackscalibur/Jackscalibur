@@ -11,4 +11,7 @@ Hollistically, I'm interested in the intersection between cyber security and sof
 I enjoy using Python and Rust the most, but I am also comfortable with languages such as Golang and Java. I enjoy learning more about Network and Linux security in my spare time.
 
 ## GitHub Stats
-[![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackscalibur)](https://github.com/Jackscalibur/github-readme-stats)
+[![Jackson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jackscalibur)](https://github.com/Jackscalibur/github-readme-stats)
+
+## Language Stats
+[![Jackson's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackscalibur)
