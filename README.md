@@ -1,2 +1,2 @@
 ## About Me
-I am a security engineer at Toyota who does security testing against the Lexus and Toyota mobile apps, as well as all of the vehicle-related cloud services and APIs.
+I am a product security engineer for Toyota who performs security assessments against the Toyota and Lexus mobile applications, all vehicle-related APIs and vehicle-related AWS environments.
